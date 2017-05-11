@@ -13,9 +13,3 @@ generating/modifying Telegram Sticker of PNG format by using MATLAB.
    Note: By design PNG files are lossless - there is no 'quality' to be 
    adjusted. Thus, The size of generated/modified PNG files could be 
    larger than 350 KB. Under the circumstance, PhotoShop would be needed.
-
-   Author:      Chouj
-   
-   Time-stamp:  2017-05-10 15:24:45
-   
-   URL:         https://github.com/chouj/TelegramStickerGeneratorByMATLAB
