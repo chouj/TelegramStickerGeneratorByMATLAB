@@ -1,5 +1,5 @@
 function StickerGenerator(InputDirectory,OutputDirectory)
-% Using Matlab to generating/modifying Telegram Sticker of PNG format.
+% Using Matlab to generate/modify Telegram Sticker of PNG format.
 % 
 %   InputDirectory: the directory path of collected picture files. 
 %   OuputDirectory: the directory path of generated PNG files. 
