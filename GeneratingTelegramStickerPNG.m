@@ -1,4 +1,4 @@
-% This is a .m script using Matlab to generating/modifying Telegram Sticker
+% This is a .m script using Matlab to generate/modify Telegram Sticker
 % of PNG format.
 % 
 %   InputDirectory: the directory path of collected picture files. 
